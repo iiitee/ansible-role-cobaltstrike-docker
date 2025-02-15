@@ -1,10 +1,10 @@
 galaxy_info:
   role_name: cobaltstrike_docker
-  author: warhorse
-  description: Installs Cobalt Strike Teamserver in Docker
+  author: almart
+  description: Installs Cobalt Strike Teamserver in Docker - updated for 4.10
   company: Warhorse
 
-  issue_tracker_url: https://github.com/warhorse/ansible-role-cobaltstrike-docker/issues
+  issue_tracker_url: https://github.com/almart/ansible-role-cobaltstrike-docker/issues
 
   license: BSD-3-Clause
 
