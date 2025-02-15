@@ -34,4 +34,4 @@
       COBALTSTRIKE_PROFILE: '{{ cs_profile }}'
     networks:
       - name: '{{ cs_docker_network }}'
-    purge_networks: true
+    networks_cli_compatible: yes
